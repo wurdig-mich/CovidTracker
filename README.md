@@ -1,0 +1,1 @@
+Followed the trend and made a custom covid tracker cp.
